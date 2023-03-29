@@ -1,4 +1,4 @@
-A full-stack developer, currently focusing on semi-structured data management and OpenAPI life cycle management.
+A full-stack developer, currently focusing on semi-structured data management and API Lifecycle Management.
 
 Currently learning ChatGPT OpenAPI Plugin Auto Generated.
 
